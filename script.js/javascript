@@ -1,4 +1,0 @@
-document.addEventListener('DOMContentLoaded', function() {
-    console.log("Marketplace site is loaded!");
-    // You can add more JavaScript functionality here.
-});
